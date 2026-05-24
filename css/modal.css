@@ -39,8 +39,7 @@
     align-items: center;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 24px;
-    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    cursor: pointer;
+    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     background-color: #e7e9fc;
 }
 
@@ -131,7 +130,6 @@
     font-size: 12px;
     line-height: 1.16667;
     letter-spacing: 0.04em;
-    margin-bottom: 8px;
     background-color: transparent;
 }
 
