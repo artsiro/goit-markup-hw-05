@@ -87,7 +87,7 @@ max-width: 264px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #FFFFFF;
+    color: #fff;
 }
 
 .subscribe-input{
@@ -99,9 +99,11 @@ max-width: 264px;
     margin-right: 24px;
     font-weight: 400;
     font-size: 12px; 
-    line-height: 1.16667;
+    line-height: 2;
     letter-spacing: 0.04em;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    background-color: inherit;
+    color: #fff;
 }
 
 .subscribe-input::placeholder{
